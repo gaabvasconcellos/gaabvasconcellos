@@ -7,7 +7,7 @@
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" width="100px" />
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" width="100px"/>
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="java-logo" width="150px" />
-<h1> </h1>:alien: Some facts about me: </h1>
+<h1> </h1>👽: Some facts about me: </h1>
 <br>
 <br>
 :dog: I love animals more than humans!!
